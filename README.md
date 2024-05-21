@@ -2,7 +2,8 @@
 ## Steps -Spots Test
 
 
-- php artisan migrate ( run datebase migration )
+- composer install
+- php artisan migrate ( run database migration )
 - php artisan serve 
 - php artisan queue:work  ( for run queue)
 
